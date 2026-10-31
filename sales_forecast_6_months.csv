@@ -1,0 +1,7 @@
+MonthStart,YearMonth,PredictedSales,ForecastType
+2025-01-01,2025-01,21960173.66,Seasonal naive baseline
+2025-02-01,2025-02,18769796.92,Seasonal naive baseline
+2025-03-01,2025-03,20299115.65,Seasonal naive baseline
+2025-04-01,2025-04,20792693.72,Seasonal naive baseline
+2025-05-01,2025-05,25359520.06,Seasonal naive baseline
+2025-06-01,2025-06,4005071.67,Seasonal naive baseline
